@@ -1,6 +1,7 @@
 # ROS Publisher for SECOND detector
 Check second/ROS/publisher.py, you can see the inference result via Rviz.  
-you can check the result from https://youtu.be/onkh0PwdHBA.
+you can check the result from https://youtu.be/onkh0PwdHBA.  
+you can download the pretrained weight file from [here](https://goo.gl/9Y7vt8)
 
 ---
 
